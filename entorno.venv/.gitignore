@@ -1,0 +1,11 @@
+# Entornos virtuales
+nlp_env/
+.venv/
+venv/
+env/
+
+# Archivos de sistema y VS Code
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
